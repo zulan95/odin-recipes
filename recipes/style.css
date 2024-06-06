@@ -1,0 +1,20 @@
+* {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: hwb(40 91% 5%);
+    color:rgb(50, 62, 30);
+}
+
+recipe {
+    font-size: 30px;
+
+}
+
+short-intro {
+    font-size: medium;
+
+}
+
+how-to-prepare {
+    font-size: large;
+
+}
